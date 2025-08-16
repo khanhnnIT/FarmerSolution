@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProjectPersonal\\FarmerSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59B0E477-809B-4ABE-BB6F-865CCD8B168D}|BusinessObject\\BusinessObject.csproj|d:\\projectpersonal\\farmersolution\\businessobject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{59B0E477-809B-4ABE-BB6F-865CCD8B168D}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B0E477-809B-4ABE-BB6F-865CCD8B168D}|BusinessObject\\BusinessObject.csproj|d:\\projectpersonal\\farmersolution\\businessobject\\farmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59B0E477-809B-4ABE-BB6F-865CCD8B168D}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\farmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B0E477-809B-4ABE-BB6F-865CCD8B168D}|BusinessObject\\BusinessObject.csproj|d:\\projectpersonal\\farmersolution\\businessobject\\farmercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59B0E477-809B-4ABE-BB6F-865CCD8B168D}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\farmercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B0E477-809B-4ABE-BB6F-865CCD8B168D}|BusinessObject\\BusinessObject.csproj|d:\\projectpersonal\\farmersolution\\businessobject\\businessobject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{59B0E477-809B-4ABE-BB6F-865CCD8B168D}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\businessobject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59DC06D3-D2A1-4928-9D95-1B6850E902FA}|FarmerAPI\\FarmerAPI.csproj|d:\\projectpersonal\\farmersolution\\farmerapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59DC06D3-D2A1-4928-9D95-1B6850E902FA}|FarmerAPI\\FarmerAPI.csproj|solutionrelative:farmerapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59DC06D3-D2A1-4928-9D95-1B6850E902FA}|FarmerAPI\\FarmerAPI.csproj|d:\\projectpersonal\\farmersolution\\farmerapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{59DC06D3-D2A1-4928-9D95-1B6850E902FA}|FarmerAPI\\FarmerAPI.csproj|solutionrelative:farmerapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59DC06D3-D2A1-4928-9D95-1B6850E902FA}|FarmerAPI\\FarmerAPI.csproj|d:\\projectpersonal\\farmersolution\\farmerapi\\farmerapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{59DC06D3-D2A1-4928-9D95-1B6850E902FA}|FarmerAPI\\FarmerAPI.csproj|solutionrelative:farmerapi\\farmerapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59DC06D3-D2A1-4928-9D95-1B6850E902FA}|FarmerAPI\\FarmerAPI.csproj|d:\\projectpersonal\\farmersolution\\farmerapi\\farmerapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{59DC06D3-D2A1-4928-9D95-1B6850E902FA}|FarmerAPI\\FarmerAPI.csproj|solutionrelative:farmerapi\\farmerapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59DC06D3-D2A1-4928-9D95-1B6850E902FA}|FarmerAPI\\FarmerAPI.csproj|d:\\projectpersonal\\farmersolution\\farmerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{59DC06D3-D2A1-4928-9D95-1B6850E902FA}|FarmerAPI\\FarmerAPI.csproj|solutionrelative:farmerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59DC06D3-D2A1-4928-9D95-1B6850E902FA}|FarmerAPI\\FarmerAPI.csproj|d:\\projectpersonal\\farmersolution\\farmerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59DC06D3-D2A1-4928-9D95-1B6850E902FA}|FarmerAPI\\FarmerAPI.csproj|solutionrelative:farmerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59DC06D3-D2A1-4928-9D95-1B6850E902FA}|FarmerAPI\\FarmerAPI.csproj|d:\\projectpersonal\\farmersolution\\farmerapi\\farmerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{59DC06D3-D2A1-4928-9D95-1B6850E902FA}|FarmerAPI\\FarmerAPI.csproj|solutionrelative:farmerapi\\farmerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3D2BA44-57A5-454B-B8CA-0FCFF446AF93}|DataAccess\\DataAccess.csproj|d:\\projectpersonal\\farmersolution\\dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3D2BA44-57A5-454B-B8CA-0FCFF446AF93}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:95:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ProjectPersonal\\FarmerSolution\\BusinessObject\\appsettings.json",
+              "RelativeDocumentMoniker": "BusinessObject\\appsettings.json",
+              "ToolTip": "D:\\ProjectPersonal\\FarmerSolution\\BusinessObject\\appsettings.json",
+              "RelativeToolTip": "BusinessObject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-16T07:26:24.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FarmerContext.cs",
+              "DocumentMoniker": "D:\\ProjectPersonal\\FarmerSolution\\BusinessObject\\FarmerContext.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\FarmerContext.cs",
+              "ToolTip": "D:\\ProjectPersonal\\FarmerSolution\\BusinessObject\\FarmerContext.cs",
+              "RelativeToolTip": "BusinessObject\\FarmerContext.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwCQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T07:07:06.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Farmer.cs",
+              "DocumentMoniker": "D:\\ProjectPersonal\\FarmerSolution\\BusinessObject\\Farmer.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Farmer.cs",
+              "ToolTip": "D:\\ProjectPersonal\\FarmerSolution\\BusinessObject\\Farmer.cs",
+              "RelativeToolTip": "BusinessObject\\Farmer.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwC4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T04:04:30.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BusinessObject",
+              "DocumentMoniker": "D:\\ProjectPersonal\\FarmerSolution\\BusinessObject\\BusinessObject.csproj",
+              "RelativeDocumentMoniker": "BusinessObject\\BusinessObject.csproj",
+              "ToolTip": "D:\\ProjectPersonal\\FarmerSolution\\BusinessObject\\BusinessObject.csproj",
+              "RelativeToolTip": "BusinessObject\\BusinessObject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-16T04:02:03.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\ProjectPersonal\\FarmerSolution\\FarmerAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "FarmerAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\ProjectPersonal\\FarmerSolution\\FarmerAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "FarmerAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T03:58:43.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\ProjectPersonal\\FarmerSolution\\FarmerAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FarmerAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\ProjectPersonal\\FarmerSolution\\FarmerAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FarmerAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-16T03:58:38.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FarmerAPI",
+              "DocumentMoniker": "D:\\ProjectPersonal\\FarmerSolution\\FarmerAPI\\FarmerAPI.csproj",
+              "RelativeDocumentMoniker": "FarmerAPI\\FarmerAPI.csproj",
+              "ToolTip": "D:\\ProjectPersonal\\FarmerSolution\\FarmerAPI\\FarmerAPI.csproj",
+              "RelativeToolTip": "FarmerAPI\\FarmerAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-16T03:58:33.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FarmerAPI.http",
+              "DocumentMoniker": "D:\\ProjectPersonal\\FarmerSolution\\FarmerAPI\\FarmerAPI.http",
+              "RelativeDocumentMoniker": "FarmerAPI\\FarmerAPI.http",
+              "ToolTip": "D:\\ProjectPersonal\\FarmerSolution\\FarmerAPI\\FarmerAPI.http",
+              "RelativeToolTip": "FarmerAPI\\FarmerAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-08-16T03:58:28.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ProjectPersonal\\FarmerSolution\\FarmerAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "FarmerAPI\\appsettings.json",
+              "ToolTip": "D:\\ProjectPersonal\\FarmerSolution\\FarmerAPI\\appsettings.json",
+              "RelativeToolTip": "FarmerAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-16T03:58:26.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProjectPersonal\\FarmerSolution\\FarmerAPI\\Program.cs",
+              "RelativeDocumentMoniker": "FarmerAPI\\Program.cs",
+              "ToolTip": "D:\\ProjectPersonal\\FarmerSolution\\FarmerAPI\\Program.cs",
+              "RelativeToolTip": "FarmerAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T03:58:14.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FarmerAPI",
+              "DocumentMoniker": "D:\\ProjectPersonal\\FarmerSolution\\FarmerAPI\\FarmerAPI.csproj",
+              "RelativeDocumentMoniker": "FarmerAPI\\FarmerAPI.csproj",
+              "ToolTip": "D:\\ProjectPersonal\\FarmerSolution\\FarmerAPI\\FarmerAPI.csproj",
+              "RelativeToolTip": "FarmerAPI\\FarmerAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-16T03:58:09.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\ProjectPersonal\\FarmerSolution\\DataAccess\\Class1.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Class1.cs",
+              "ToolTip": "D:\\ProjectPersonal\\FarmerSolution\\DataAccess\\Class1.cs",
+              "RelativeToolTip": "DataAccess\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T03:48:56.403Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1248,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:221:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
