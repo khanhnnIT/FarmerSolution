@@ -1,0 +1,65 @@
+﻿@model BusinessObject.Farmer
+
+@{
+    ViewData["Title"] = "Farmer Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container py-5" style="max-width: 900px;">
+    <div class="card shadow-sm border-0 rounded-4">
+        <div class="card-header bg-white border-0 rounded-top-4 px-4 py-3 d-flex justify-content-between align-items-center">
+            <h4 class="mb-0 fw-bold text-primary">
+                <i class="bi bi-person-vcard me-2"></i> Farmer Details
+            </h4>
+            <a asp-action="Index" class="btn btn-outline-secondary btn-sm rounded-pill px-3">
+                <i class="bi bi-arrow-left"></i> Back
+            </a>
+        </div>
+
+        <div class="card-body px-4 py-4">
+            <div class="row g-3">
+                <div class="col-md-6">
+                    <p class="text-muted small mb-1 fw-semibold">Farmer Code</p>
+                    <p class="fs-6">@Model.FarmerCode</p>
+                </div>
+                <div class="col-md-6">
+                    <p class="text-muted small mb-1 fw-semibold">Farmer Name</p>
+                    <p class="fs-6">@Model.FarmerName</p>
+                </div>
+                <div class="col-md-6">
+                    <p class="text-muted small mb-1 fw-semibold">Farmer Name (EN)</p>
+                    <p class="fs-6">@Model.FarmerNameEN</p>
+                </div>
+                <div class="col-md-6">
+                    <p class="text-muted small mb-1 fw-semibold">Address</p>
+                    <p class="fs-6">@Model.Address</p>
+                </div>
+                <div class="col-md-6">
+                    <p class="text-muted small mb-1 fw-semibold">Phone 1</p>
+                    <p class="fs-6">@Model.Phone1</p>
+                </div>
+                <div class="col-md-6">
+                    <p class="text-muted small mb-1 fw-semibold">Phone 2</p>
+                    <p class="fs-6">@Model.Phone2</p>
+                </div>
+                <div class="col-md-6">
+                    <p class="text-muted small mb-1 fw-semibold">Insert Date</p>
+                    <p class="fs-6">@Model.InsertDate</p>
+                </div>
+                <div class="col-md-6">
+                    <p class="text-muted small mb-1 fw-semibold">Updated Date</p>
+                    <p class="fs-6">@Model.UpdatedDate</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="card-footer bg-light border-0 d-flex justify-content-end gap-3 px-4 py-3 rounded-bottom-4">
+            <a asp-action="Edit" asp-route-id="@Model?.FarmerId" class="btn btn-warning rounded-pill px-4">
+                <i class="bi bi-pencil-square"></i> Edit
+            </a>
+            <a asp-action="Index" class="btn btn-outline-secondary rounded-pill px-4">
+                <i class="bi bi-list"></i> Back to List
+            </a>
+        </div>
+    </div>
+</div>

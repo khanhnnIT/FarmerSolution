@@ -24,7 +24,7 @@ namespace FarmerWebClient
 
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=Home}/{action=Index}/{id?}");
+                pattern: "{controller=Farmer}/{action=Index}/{id?}");
 
             app.Run();
         }

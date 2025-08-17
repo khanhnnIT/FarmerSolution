@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5ucMMxDmD4GIIfN46uOGvog79PF2qdgPWQCrVmQlFHM=",
+  "Source": "FarmerAPI",
+  "BasePath": "_content/FarmerAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

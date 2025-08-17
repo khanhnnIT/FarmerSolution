@@ -7,6 +7,7 @@ D:\ProjectPersonal\FarmerSolution\BusinessObject\obj\Debug\net8.0\BusinessObject
 D:\ProjectPersonal\FarmerSolution\BusinessObject\obj\Debug\net8.0\BusinessObject.AssemblyInfoInputs.cache
 D:\ProjectPersonal\FarmerSolution\BusinessObject\obj\Debug\net8.0\BusinessObject.AssemblyInfo.cs
 D:\ProjectPersonal\FarmerSolution\BusinessObject\obj\Debug\net8.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\ProjectPersonal\FarmerSolution\BusinessObject\obj\Debug\net8.0\BusinessObject.sourcelink.json
 D:\ProjectPersonal\FarmerSolution\BusinessObject\obj\Debug\net8.0\BusinessObject.dll
 D:\ProjectPersonal\FarmerSolution\BusinessObject\obj\Debug\net8.0\refint\BusinessObject.dll
 D:\ProjectPersonal\FarmerSolution\BusinessObject\obj\Debug\net8.0\BusinessObject.pdb

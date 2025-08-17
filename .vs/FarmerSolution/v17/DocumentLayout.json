@@ -3,52 +3,124 @@
   "WorkspaceRootPath": "D:\\ProjectPersonal\\FarmerSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{59B0E477-809B-4ABE-BB6F-865CCD8B168D}|BusinessObject\\BusinessObject.csproj|d:\\projectpersonal\\farmersolution\\businessobject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{59B0E477-809B-4ABE-BB6F-865CCD8B168D}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{97603F92-A288-42C8-B340-4CD81BC279F2}|FarmerWebClient\\FarmerWebClient.csproj|d:\\projectpersonal\\farmersolution\\farmerwebclient\\views\\farmer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97603F92-A288-42C8-B340-4CD81BC279F2}|FarmerWebClient\\FarmerWebClient.csproj|solutionrelative:farmerwebclient\\views\\farmer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{59B0E477-809B-4ABE-BB6F-865CCD8B168D}|BusinessObject\\BusinessObject.csproj|d:\\projectpersonal\\farmersolution\\businessobject\\farmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59B0E477-809B-4ABE-BB6F-865CCD8B168D}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\farmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{97603F92-A288-42C8-B340-4CD81BC279F2}|FarmerWebClient\\FarmerWebClient.csproj|d:\\projectpersonal\\farmersolution\\farmerwebclient\\controllers\\farmercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97603F92-A288-42C8-B340-4CD81BC279F2}|FarmerWebClient\\FarmerWebClient.csproj|solutionrelative:farmerwebclient\\controllers\\farmercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59DC06D3-D2A1-4928-9D95-1B6850E902FA}|FarmerAPI\\FarmerAPI.csproj|d:\\projectpersonal\\farmersolution\\farmerapi\\controllers\\farmercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59DC06D3-D2A1-4928-9D95-1B6850E902FA}|FarmerAPI\\FarmerAPI.csproj|solutionrelative:farmerapi\\controllers\\farmercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3D2BA44-57A5-454B-B8CA-0FCFF446AF93}|DataAccess\\DataAccess.csproj|d:\\projectpersonal\\farmersolution\\dataaccess\\dao\\farmerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3D2BA44-57A5-454B-B8CA-0FCFF446AF93}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dao\\farmerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97603F92-A288-42C8-B340-4CD81BC279F2}|FarmerWebClient\\FarmerWebClient.csproj|d:\\projectpersonal\\farmersolution\\farmerwebclient\\views\\farmer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97603F92-A288-42C8-B340-4CD81BC279F2}|FarmerWebClient\\FarmerWebClient.csproj|solutionrelative:farmerwebclient\\views\\farmer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97603F92-A288-42C8-B340-4CD81BC279F2}|FarmerWebClient\\FarmerWebClient.csproj|d:\\projectpersonal\\farmersolution\\farmerwebclient\\views\\farmer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97603F92-A288-42C8-B340-4CD81BC279F2}|FarmerWebClient\\FarmerWebClient.csproj|solutionrelative:farmerwebclient\\views\\farmer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97603F92-A288-42C8-B340-4CD81BC279F2}|FarmerWebClient\\FarmerWebClient.csproj|d:\\projectpersonal\\farmersolution\\farmerwebclient\\views\\farmer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97603F92-A288-42C8-B340-4CD81BC279F2}|FarmerWebClient\\FarmerWebClient.csproj|solutionrelative:farmerwebclient\\views\\farmer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{59B0E477-809B-4ABE-BB6F-865CCD8B168D}|BusinessObject\\BusinessObject.csproj|d:\\projectpersonal\\farmersolution\\businessobject\\farmercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59B0E477-809B-4ABE-BB6F-865CCD8B168D}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\farmercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59B0E477-809B-4ABE-BB6F-865CCD8B168D}|BusinessObject\\BusinessObject.csproj|d:\\projectpersonal\\farmersolution\\businessobject\\businessobject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{59B0E477-809B-4ABE-BB6F-865CCD8B168D}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\businessobject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{97603F92-A288-42C8-B340-4CD81BC279F2}|FarmerWebClient\\FarmerWebClient.csproj|d:\\projectpersonal\\farmersolution\\farmerwebclient\\views\\farmer\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97603F92-A288-42C8-B340-4CD81BC279F2}|FarmerWebClient\\FarmerWebClient.csproj|solutionrelative:farmerwebclient\\views\\farmer\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59DC06D3-D2A1-4928-9D95-1B6850E902FA}|FarmerAPI\\FarmerAPI.csproj|d:\\projectpersonal\\farmersolution\\farmerapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59DC06D3-D2A1-4928-9D95-1B6850E902FA}|FarmerAPI\\FarmerAPI.csproj|solutionrelative:farmerapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97603F92-A288-42C8-B340-4CD81BC279F2}|FarmerWebClient\\FarmerWebClient.csproj|d:\\projectpersonal\\farmersolution\\farmerwebclient\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97603F92-A288-42C8-B340-4CD81BC279F2}|FarmerWebClient\\FarmerWebClient.csproj|solutionrelative:farmerwebclient\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59DC06D3-D2A1-4928-9D95-1B6850E902FA}|FarmerAPI\\FarmerAPI.csproj|d:\\projectpersonal\\farmersolution\\farmerapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{59DC06D3-D2A1-4928-9D95-1B6850E902FA}|FarmerAPI\\FarmerAPI.csproj|solutionrelative:farmerapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{97603F92-A288-42C8-B340-4CD81BC279F2}|FarmerWebClient\\FarmerWebClient.csproj|d:\\projectpersonal\\farmersolution\\farmerwebclient\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97603F92-A288-42C8-B340-4CD81BC279F2}|FarmerWebClient\\FarmerWebClient.csproj|solutionrelative:farmerwebclient\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59DC06D3-D2A1-4928-9D95-1B6850E902FA}|FarmerAPI\\FarmerAPI.csproj|d:\\projectpersonal\\farmersolution\\farmerapi\\farmerapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{59DC06D3-D2A1-4928-9D95-1B6850E902FA}|FarmerAPI\\FarmerAPI.csproj|solutionrelative:farmerapi\\farmerapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{97603F92-A288-42C8-B340-4CD81BC279F2}|FarmerWebClient\\FarmerWebClient.csproj|d:\\projectpersonal\\farmersolution\\farmerwebclient\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97603F92-A288-42C8-B340-4CD81BC279F2}|FarmerWebClient\\FarmerWebClient.csproj|solutionrelative:farmerwebclient\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59DC06D3-D2A1-4928-9D95-1B6850E902FA}|FarmerAPI\\FarmerAPI.csproj|d:\\projectpersonal\\farmersolution\\farmerapi\\farmerapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{59DC06D3-D2A1-4928-9D95-1B6850E902FA}|FarmerAPI\\FarmerAPI.csproj|solutionrelative:farmerapi\\farmerapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{97603F92-A288-42C8-B340-4CD81BC279F2}|FarmerWebClient\\FarmerWebClient.csproj|d:\\projectpersonal\\farmersolution\\farmerwebclient\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97603F92-A288-42C8-B340-4CD81BC279F2}|FarmerWebClient\\FarmerWebClient.csproj|solutionrelative:farmerwebclient\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59DC06D3-D2A1-4928-9D95-1B6850E902FA}|FarmerAPI\\FarmerAPI.csproj|d:\\projectpersonal\\farmersolution\\farmerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{59DC06D3-D2A1-4928-9D95-1B6850E902FA}|FarmerAPI\\FarmerAPI.csproj|solutionrelative:farmerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{97603F92-A288-42C8-B340-4CD81BC279F2}|FarmerWebClient\\FarmerWebClient.csproj|d:\\projectpersonal\\farmersolution\\farmerwebclient\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97603F92-A288-42C8-B340-4CD81BC279F2}|FarmerWebClient\\FarmerWebClient.csproj|solutionrelative:farmerwebclient\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3D2BA44-57A5-454B-B8CA-0FCFF446AF93}|DataAccess\\DataAccess.csproj|d:\\projectpersonal\\farmersolution\\dataaccess\\repository\\farmerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3D2BA44-57A5-454B-B8CA-0FCFF446AF93}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repository\\farmerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{59DC06D3-D2A1-4928-9D95-1B6850E902FA}|FarmerAPI\\FarmerAPI.csproj|d:\\projectpersonal\\farmersolution\\farmerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59DC06D3-D2A1-4928-9D95-1B6850E902FA}|FarmerAPI\\FarmerAPI.csproj|solutionrelative:farmerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{59DC06D3-D2A1-4928-9D95-1B6850E902FA}|FarmerAPI\\FarmerAPI.csproj|d:\\projectpersonal\\farmersolution\\farmerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{59DC06D3-D2A1-4928-9D95-1B6850E902FA}|FarmerAPI\\FarmerAPI.csproj|solutionrelative:farmerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59DC06D3-D2A1-4928-9D95-1B6850E902FA}|FarmerAPI\\FarmerAPI.csproj|d:\\projectpersonal\\farmersolution\\farmerapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{59DC06D3-D2A1-4928-9D95-1B6850E902FA}|FarmerAPI\\FarmerAPI.csproj|solutionrelative:farmerapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59DC06D3-D2A1-4928-9D95-1B6850E902FA}|FarmerAPI\\FarmerAPI.csproj|d:\\projectpersonal\\farmersolution\\farmerapi\\farmerapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{59DC06D3-D2A1-4928-9D95-1B6850E902FA}|FarmerAPI\\FarmerAPI.csproj|solutionrelative:farmerapi\\farmerapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{59DC06D3-D2A1-4928-9D95-1B6850E902FA}|FarmerAPI\\FarmerAPI.csproj|d:\\projectpersonal\\farmersolution\\farmerapi\\farmerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{59DC06D3-D2A1-4928-9D95-1B6850E902FA}|FarmerAPI\\FarmerAPI.csproj|solutionrelative:farmerapi\\farmerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3D2BA44-57A5-454B-B8CA-0FCFF446AF93}|DataAccess\\DataAccess.csproj|d:\\projectpersonal\\farmersolution\\dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3D2BA44-57A5-454B-B8CA-0FCFF446AF93}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97603F92-A288-42C8-B340-4CD81BC279F2}|FarmerWebClient\\FarmerWebClient.csproj|d:\\projectpersonal\\farmersolution\\farmerwebclient\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{97603F92-A288-42C8-B340-4CD81BC279F2}|FarmerWebClient\\FarmerWebClient.csproj|solutionrelative:farmerwebclient\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97603F92-A288-42C8-B340-4CD81BC279F2}|FarmerWebClient\\FarmerWebClient.csproj|d:\\projectpersonal\\farmersolution\\farmerwebclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97603F92-A288-42C8-B340-4CD81BC279F2}|FarmerWebClient\\FarmerWebClient.csproj|solutionrelative:farmerwebclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97603F92-A288-42C8-B340-4CD81BC279F2}|FarmerWebClient\\FarmerWebClient.csproj|d:\\projectpersonal\\farmersolution\\farmerwebclient\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{97603F92-A288-42C8-B340-4CD81BC279F2}|FarmerWebClient\\FarmerWebClient.csproj|solutionrelative:farmerwebclient\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B0E477-809B-4ABE-BB6F-865CCD8B168D}|BusinessObject\\BusinessObject.csproj|d:\\projectpersonal\\farmersolution\\businessobject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{59B0E477-809B-4ABE-BB6F-865CCD8B168D}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97603F92-A288-42C8-B340-4CD81BC279F2}|FarmerWebClient\\FarmerWebClient.csproj|d:\\projectpersonal\\farmersolution\\farmerwebclient\\farmerwebclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{97603F92-A288-42C8-B340-4CD81BC279F2}|FarmerWebClient\\FarmerWebClient.csproj|solutionrelative:farmerwebclient\\farmerwebclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3D2BA44-57A5-454B-B8CA-0FCFF446AF93}|DataAccess\\DataAccess.csproj|d:\\projectpersonal\\farmersolution\\dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F3D2BA44-57A5-454B-B8CA-0FCFF446AF93}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B0E477-809B-4ABE-BB6F-865CCD8B168D}|BusinessObject\\BusinessObject.csproj|d:\\projectpersonal\\farmersolution\\businessobject\\businessobject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{59B0E477-809B-4ABE-BB6F-865CCD8B168D}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\businessobject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3D2BA44-57A5-454B-B8CA-0FCFF446AF93}|DataAccess\\DataAccess.csproj|d:\\projectpersonal\\farmersolution\\dataaccess\\irepository\\ifarmerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3D2BA44-57A5-454B-B8CA-0FCFF446AF93}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\irepository\\ifarmerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59DC06D3-D2A1-4928-9D95-1B6850E902FA}|FarmerAPI\\FarmerAPI.csproj|d:\\projectpersonal\\farmersolution\\farmerapi\\farmerapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{59DC06D3-D2A1-4928-9D95-1B6850E902FA}|FarmerAPI\\FarmerAPI.csproj|solutionrelative:farmerapi\\farmerapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,11 +130,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:95:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
@@ -75,27 +151,126 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\ProjectPersonal\\FarmerSolution\\BusinessObject\\appsettings.json",
-              "RelativeDocumentMoniker": "BusinessObject\\appsettings.json",
-              "ToolTip": "D:\\ProjectPersonal\\FarmerSolution\\BusinessObject\\appsettings.json",
-              "RelativeToolTip": "BusinessObject\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-16T07:26:24.311Z",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\ProjectPersonal\\FarmerSolution\\FarmerWebClient\\Views\\Farmer\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FarmerWebClient\\Views\\Farmer\\Edit.cshtml",
+              "ToolTip": "D:\\ProjectPersonal\\FarmerSolution\\FarmerWebClient\\Views\\Farmer\\Edit.cshtml",
+              "RelativeToolTip": "FarmerWebClient\\Views\\Farmer\\Edit.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAuwC4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-16T15:38:42.879Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "FarmerController.cs",
+              "DocumentMoniker": "D:\\ProjectPersonal\\FarmerSolution\\FarmerWebClient\\Controllers\\FarmerController.cs",
+              "RelativeDocumentMoniker": "FarmerWebClient\\Controllers\\FarmerController.cs",
+              "ToolTip": "D:\\ProjectPersonal\\FarmerSolution\\FarmerWebClient\\Controllers\\FarmerController.cs",
+              "RelativeToolTip": "FarmerWebClient\\Controllers\\FarmerController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAvwF4AAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T08:34:38.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\ProjectPersonal\\FarmerSolution\\FarmerWebClient\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "FarmerWebClient\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\ProjectPersonal\\FarmerSolution\\FarmerWebClient\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "FarmerWebClient\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-16T16:37:07.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\ProjectPersonal\\FarmerSolution\\FarmerWebClient\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FarmerWebClient\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\ProjectPersonal\\FarmerSolution\\FarmerWebClient\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FarmerWebClient\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-16T10:59:03.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ProjectPersonal\\FarmerSolution\\FarmerWebClient\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FarmerWebClient\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ProjectPersonal\\FarmerSolution\\FarmerWebClient\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FarmerWebClient\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-16T16:37:15.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\ProjectPersonal\\FarmerSolution\\FarmerWebClient\\Views\\Farmer\\Details.cshtml",
+              "RelativeDocumentMoniker": "FarmerWebClient\\Views\\Farmer\\Details.cshtml",
+              "ToolTip": "D:\\ProjectPersonal\\FarmerSolution\\FarmerWebClient\\Views\\Farmer\\Details.cshtml",
+              "RelativeToolTip": "FarmerWebClient\\Views\\Farmer\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-16T15:41:15.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "FarmerContext.cs",
               "DocumentMoniker": "D:\\ProjectPersonal\\FarmerSolution\\BusinessObject\\FarmerContext.cs",
               "RelativeDocumentMoniker": "BusinessObject\\FarmerContext.cs",
               "ToolTip": "D:\\ProjectPersonal\\FarmerSolution\\BusinessObject\\FarmerContext.cs",
               "RelativeToolTip": "BusinessObject\\FarmerContext.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAwwCQAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwCoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T07:07:06.245Z",
+              "WhenOpened": "2025-08-16T07:07:06.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FarmerDAO.cs",
+              "DocumentMoniker": "D:\\ProjectPersonal\\FarmerSolution\\DataAccess\\DAO\\FarmerDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DAO\\FarmerDAO.cs",
+              "ToolTip": "D:\\ProjectPersonal\\FarmerSolution\\DataAccess\\DAO\\FarmerDAO.cs",
+              "RelativeToolTip": "DataAccess\\DAO\\FarmerDAO.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAApwE0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T07:48:00.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FarmerController.cs",
+              "DocumentMoniker": "D:\\ProjectPersonal\\FarmerSolution\\FarmerAPI\\Controllers\\FarmerController.cs",
+              "RelativeDocumentMoniker": "FarmerAPI\\Controllers\\FarmerController.cs",
+              "ToolTip": "D:\\ProjectPersonal\\FarmerSolution\\FarmerAPI\\Controllers\\FarmerController.cs",
+              "RelativeToolTip": "FarmerAPI\\Controllers\\FarmerController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwCsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T08:20:03.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ProjectPersonal\\FarmerSolution\\FarmerWebClient\\Views\\Farmer\\Create.cshtml",
+              "RelativeDocumentMoniker": "FarmerWebClient\\Views\\Farmer\\Create.cshtml",
+              "ToolTip": "D:\\ProjectPersonal\\FarmerSolution\\FarmerWebClient\\Views\\Farmer\\Create.cshtml",
+              "RelativeToolTip": "FarmerWebClient\\Views\\Farmer\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-16T14:26:11.104Z",
               "EditorCaption": ""
             },
             {
@@ -106,65 +281,100 @@
               "RelativeDocumentMoniker": "BusinessObject\\Farmer.cs",
               "ToolTip": "D:\\ProjectPersonal\\FarmerSolution\\BusinessObject\\Farmer.cs",
               "RelativeToolTip": "BusinessObject\\Farmer.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAIwC4AAABAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACYAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-16T04:04:30.775Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BusinessObject",
-              "DocumentMoniker": "D:\\ProjectPersonal\\FarmerSolution\\BusinessObject\\BusinessObject.csproj",
-              "RelativeDocumentMoniker": "BusinessObject\\BusinessObject.csproj",
-              "ToolTip": "D:\\ProjectPersonal\\FarmerSolution\\BusinessObject\\BusinessObject.csproj",
-              "RelativeToolTip": "BusinessObject\\BusinessObject.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-16T04:02:03.924Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "D:\\ProjectPersonal\\FarmerSolution\\FarmerAPI\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "FarmerAPI\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "D:\\ProjectPersonal\\FarmerSolution\\FarmerAPI\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "FarmerAPI\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T03:58:43.196Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\ProjectPersonal\\FarmerSolution\\FarmerAPI\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "FarmerAPI\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\ProjectPersonal\\FarmerSolution\\FarmerAPI\\Properties\\launchSettings.json",
-              "RelativeToolTip": "FarmerAPI\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-16T03:58:38.001Z",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\ProjectPersonal\\FarmerSolution\\FarmerWebClient\\Views\\Farmer\\Delete.cshtml",
+              "RelativeDocumentMoniker": "FarmerWebClient\\Views\\Farmer\\Delete.cshtml",
+              "ToolTip": "D:\\ProjectPersonal\\FarmerSolution\\FarmerWebClient\\Views\\Farmer\\Delete.cshtml",
+              "RelativeToolTip": "FarmerWebClient\\Views\\Farmer\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-16T15:46:57.491Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "FarmerAPI",
-              "DocumentMoniker": "D:\\ProjectPersonal\\FarmerSolution\\FarmerAPI\\FarmerAPI.csproj",
-              "RelativeDocumentMoniker": "FarmerAPI\\FarmerAPI.csproj",
-              "ToolTip": "D:\\ProjectPersonal\\FarmerSolution\\FarmerAPI\\FarmerAPI.csproj",
-              "RelativeToolTip": "FarmerAPI\\FarmerAPI.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-16T03:58:33.979Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ProjectPersonal\\FarmerSolution\\FarmerWebClient\\Views\\Farmer\\Index.cshtml",
+              "RelativeDocumentMoniker": "FarmerWebClient\\Views\\Farmer\\Index.cshtml",
+              "ToolTip": "D:\\ProjectPersonal\\FarmerSolution\\FarmerWebClient\\Views\\Farmer\\Index.cshtml",
+              "RelativeToolTip": "FarmerWebClient\\Views\\Farmer\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-16T10:57:58.493Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProjectPersonal\\FarmerSolution\\FarmerWebClient\\Program.cs",
+              "RelativeDocumentMoniker": "FarmerWebClient\\Program.cs",
+              "ToolTip": "D:\\ProjectPersonal\\FarmerSolution\\FarmerWebClient\\Program.cs",
+              "RelativeToolTip": "FarmerWebClient\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T10:58:02.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ProjectPersonal\\FarmerSolution\\FarmerWebClient\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FarmerWebClient\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\ProjectPersonal\\FarmerSolution\\FarmerWebClient\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FarmerWebClient\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-16T16:36:59.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\ProjectPersonal\\FarmerSolution\\FarmerWebClient\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "FarmerWebClient\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\ProjectPersonal\\FarmerSolution\\FarmerWebClient\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "FarmerWebClient\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-16T16:36:53.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\ProjectPersonal\\FarmerSolution\\FarmerWebClient\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "FarmerWebClient\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\ProjectPersonal\\FarmerSolution\\FarmerWebClient\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "FarmerWebClient\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-16T16:36:55.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FarmerRepository.cs",
+              "DocumentMoniker": "D:\\ProjectPersonal\\FarmerSolution\\DataAccess\\Repository\\FarmerRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repository\\FarmerRepository.cs",
+              "ToolTip": "D:\\ProjectPersonal\\FarmerSolution\\DataAccess\\Repository\\FarmerRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repository\\FarmerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T08:16:47.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "FarmerAPI.http",
               "DocumentMoniker": "D:\\ProjectPersonal\\FarmerSolution\\FarmerAPI\\FarmerAPI.http",
               "RelativeDocumentMoniker": "FarmerAPI\\FarmerAPI.http",
@@ -172,60 +382,138 @@
               "RelativeToolTip": "FarmerAPI\\FarmerAPI.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-08-16T03:58:28.945Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-16T03:58:28.945Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 20,
+              "Title": "FarmerAPI.csproj",
+              "DocumentMoniker": "D:\\ProjectPersonal\\FarmerSolution\\FarmerAPI\\FarmerAPI.csproj",
+              "RelativeDocumentMoniker": "FarmerAPI\\FarmerAPI.csproj",
+              "ToolTip": "D:\\ProjectPersonal\\FarmerSolution\\FarmerAPI\\FarmerAPI.csproj",
+              "RelativeToolTip": "FarmerAPI\\FarmerAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-16T03:58:09.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\ProjectPersonal\\FarmerSolution\\FarmerAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FarmerAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\ProjectPersonal\\FarmerSolution\\FarmerAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FarmerAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-16T03:58:38.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\ProjectPersonal\\FarmerSolution\\FarmerAPI\\appsettings.json",
               "RelativeDocumentMoniker": "FarmerAPI\\appsettings.json",
               "ToolTip": "D:\\ProjectPersonal\\FarmerSolution\\FarmerAPI\\appsettings.json",
               "RelativeToolTip": "FarmerAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-16T03:58:26.066Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-16T03:58:26.066Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\ProjectPersonal\\FarmerSolution\\FarmerAPI\\Program.cs",
               "RelativeDocumentMoniker": "FarmerAPI\\Program.cs",
               "ToolTip": "D:\\ProjectPersonal\\FarmerSolution\\FarmerAPI\\Program.cs",
               "RelativeToolTip": "FarmerAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwAsAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T03:58:14.27Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-16T03:58:14.27Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ProjectPersonal\\FarmerSolution\\FarmerWebClient\\appsettings.json",
+              "RelativeDocumentMoniker": "FarmerWebClient\\appsettings.json",
+              "ToolTip": "D:\\ProjectPersonal\\FarmerSolution\\FarmerWebClient\\appsettings.json",
+              "RelativeToolTip": "FarmerWebClient\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-16T10:28:09.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FarmerWebClient.csproj",
+              "DocumentMoniker": "D:\\ProjectPersonal\\FarmerSolution\\FarmerWebClient\\FarmerWebClient.csproj",
+              "RelativeDocumentMoniker": "FarmerWebClient\\FarmerWebClient.csproj",
+              "ToolTip": "D:\\ProjectPersonal\\FarmerSolution\\FarmerWebClient\\FarmerWebClient.csproj",
+              "RelativeToolTip": "FarmerWebClient\\FarmerWebClient.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-16T09:49:24.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BusinessObject.csproj",
+              "DocumentMoniker": "D:\\ProjectPersonal\\FarmerSolution\\BusinessObject\\BusinessObject.csproj",
+              "RelativeDocumentMoniker": "BusinessObject\\BusinessObject.csproj",
+              "ToolTip": "D:\\ProjectPersonal\\FarmerSolution\\BusinessObject\\BusinessObject.csproj",
+              "RelativeToolTip": "BusinessObject\\BusinessObject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-16T04:02:03.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ProjectPersonal\\FarmerSolution\\BusinessObject\\appsettings.json",
+              "RelativeDocumentMoniker": "BusinessObject\\appsettings.json",
+              "ToolTip": "D:\\ProjectPersonal\\FarmerSolution\\BusinessObject\\appsettings.json",
+              "RelativeToolTip": "BusinessObject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-16T07:26:24.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DataAccess.csproj",
+              "DocumentMoniker": "D:\\ProjectPersonal\\FarmerSolution\\DataAccess\\DataAccess.csproj",
+              "RelativeDocumentMoniker": "DataAccess\\DataAccess.csproj",
+              "ToolTip": "D:\\ProjectPersonal\\FarmerSolution\\DataAccess\\DataAccess.csproj",
+              "RelativeToolTip": "DataAccess\\DataAccess.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-16T07:46:44.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IFarmerRepository.cs",
+              "DocumentMoniker": "D:\\ProjectPersonal\\FarmerSolution\\DataAccess\\IRepository\\IFarmerRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\IRepository\\IFarmerRepository.cs",
+              "ToolTip": "D:\\ProjectPersonal\\FarmerSolution\\DataAccess\\IRepository\\IFarmerRepository.cs",
+              "RelativeToolTip": "DataAccess\\IRepository\\IFarmerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T08:14:45.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
               "Title": "FarmerAPI",
               "DocumentMoniker": "D:\\ProjectPersonal\\FarmerSolution\\FarmerAPI\\FarmerAPI.csproj",
               "RelativeDocumentMoniker": "FarmerAPI\\FarmerAPI.csproj",
               "ToolTip": "D:\\ProjectPersonal\\FarmerSolution\\FarmerAPI\\FarmerAPI.csproj",
               "RelativeToolTip": "FarmerAPI\\FarmerAPI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-16T03:58:09.555Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\ProjectPersonal\\FarmerSolution\\DataAccess\\Class1.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Class1.cs",
-              "ToolTip": "D:\\ProjectPersonal\\FarmerSolution\\DataAccess\\Class1.cs",
-              "RelativeToolTip": "DataAccess\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T03:48:56.403Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-16T03:58:33.979Z"
             }
           ]
         },

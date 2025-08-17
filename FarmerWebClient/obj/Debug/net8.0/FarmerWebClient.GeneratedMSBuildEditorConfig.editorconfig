@@ -26,6 +26,26 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\ProjectPersonal\FarmerSolution\FarmerWebClient
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/ProjectPersonal/FarmerSolution/FarmerWebClient/Views/Farmer/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFybWVyXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ProjectPersonal/FarmerSolution/FarmerWebClient/Views/Farmer/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFybWVyXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ProjectPersonal/FarmerSolution/FarmerWebClient/Views/Farmer/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFybWVyXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ProjectPersonal/FarmerSolution/FarmerWebClient/Views/Farmer/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFybWVyXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ProjectPersonal/FarmerSolution/FarmerWebClient/Views/Farmer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFybWVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/ProjectPersonal/FarmerSolution/FarmerWebClient/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

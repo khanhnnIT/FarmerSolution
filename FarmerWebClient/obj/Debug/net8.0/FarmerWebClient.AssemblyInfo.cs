@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FarmerWebClient")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5df398ada5c6fb201de2a491c752aa3a80974b80")]
 [assembly: System.Reflection.AssemblyProductAttribute("FarmerWebClient")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FarmerWebClient")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

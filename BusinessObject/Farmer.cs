@@ -12,39 +12,36 @@ namespace BusinessObject
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)] 
-        public int FarmerId { get; set; }
+        public Guid FarmerId { get; set; }
 
-        [Required]
+        [Required(ErrorMessage = "Please enter Farmer Code!")]
         [StringLength(50, MinimumLength = 2, ErrorMessage = "Username must be between 2 and 50 characters.")]
         [Column(TypeName = "varchar(50)")]
         public string FarmerCode { get; set; }
 
-        [Required]
+        [Required(ErrorMessage = "Please enter Farmer Name!")]
         [StringLength(50, MinimumLength = 1, ErrorMessage = "Fullname must be between 1 and 50 characters.")]
         [Column(TypeName = "nvarchar(50)")]
         public string FarmerName { get; set; }
 
-        [Required]
+        [Required(ErrorMessage = "Please enter Farmer Name in English!")]
         [StringLength(50, MinimumLength = 1, ErrorMessage = "Fullname English must be between 1 and 50 characters.")]
         [Column(TypeName = "varchar(50)")]
         public string FarmerNameEN { get; set; }
 
-        [Required]
-        [StringLength(100, MinimumLength = 1, ErrorMessage = "Address must be between 1 and 100 characters.")]
         [Column(TypeName = "nvarchar(100)")]
-        public string Address { get; set; }
+        public string? Address { get; set; }
 
-        [Required]
-        [StringLength(10, MinimumLength = 10, ErrorMessage = "Phone number must be 10 characters.")]
+        [RegularExpression(@"^0\d{9}$", ErrorMessage = "Phone 1 must have 10 digits and start with 0")]
         [Column(TypeName = "varchar(10)")]
-        public string Phone1 { get; set; }
+        public string? Phone1 { get; set; }
 
-        [Required]
-        [StringLength(10, MinimumLength = 10, ErrorMessage = "Phone number must be 10 characters.")]
+        [RegularExpression(@"^0\d{9}$", ErrorMessage = "Phone 2 must have 10 digits and start with 0")]
         [Column(TypeName = "varchar(10)")]
-        public string Phone2 { get; set; }
+        public string? Phone2 { get; set; }
 
-        public DateTime InsertDate { get; set; } = DateTime.Now;
+        public DateTime? InsertDate { get; set; } = DateTime.Now;
+        public DateTime? UpdatedDate { get; set; }
     }
 
 }

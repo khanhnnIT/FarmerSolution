@@ -1,0 +1,78 @@
+﻿@model BusinessObject.Farmer
+
+@{
+    ViewData["Title"] = "Create Farmer";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container py-5" style="max-width: 900px;">
+    <div class="card border-0 shadow-sm rounded-4">
+        <div class="card-header bg-white border-0 rounded-top-4 px-4 py-3 d-flex justify-content-between align-items-center">
+            <h4 class="mb-0 fw-bold text-secondary">
+                <i class="bi bi-person-plus me-2 text-primary"></i> New Farmer
+            </h4>
+            <a asp-action="Index" class="btn btn-outline-secondary btn-sm rounded-pill px-3">
+                <i class="bi bi-arrow-left"></i> Back
+            </a>
+        </div>
+
+        <div class="card-body px-4 py-4">
+            <form asp-action="Create">
+                <div asp-validation-summary="ModelOnly" class="alert alert-danger rounded-3"></div>
+
+                <div class="row g-4">
+                    <div class="col-md-6">
+                        <label class="form-label small text-muted fw-semibold">Farmer Code</label>
+                        <input asp-for="FarmerCode" class="form-control rounded-3" placeholder="Farmer Code" />
+                        <span asp-validation-for="FarmerCode" class="text-danger small"></span>
+                    </div>
+
+                    <div class="col-md-6">
+                        <label class="form-label small text-muted fw-semibold">Farmer Name</label>
+                        <input asp-for="FarmerName" class="form-control rounded-3" placeholder="Farmer Name" />
+                        <span asp-validation-for="FarmerName" class="text-danger small"></span>
+                    </div>
+
+                    <div class="col-md-6">
+                        <label class="form-label small text-muted fw-semibold">Farmer Name(EN)</label>
+                        <input asp-for="FarmerNameEN" class="form-control rounded-3" placeholder="Farmer Name (EN)" />
+                        <span asp-validation-for="FarmerNameEN" class="text-danger small"></span>
+                    </div>
+
+                    <div class="col-md-6">
+                        <label class="form-label small text-muted fw-semibold">Address</label>
+                        <input asp-for="Address" class="form-control rounded-3" placeholder="Address" />
+                        <span asp-validation-for="Address" class="text-danger small"></span>
+                    </div>
+
+                    <div class="col-md-6">
+                        <label class="form-label small text-muted fw-semibold">Phone 1</label>
+                        <input asp-for="Phone1" class="form-control rounded-3" placeholder="Primary Phone" />
+                        <span asp-validation-for="Phone1" class="text-danger small"></span>
+                    </div>
+
+                    <div class="col-md-6">
+                        <label class="form-label small text-muted fw-semibold">Phone 2</label>
+                        <input asp-for="Phone2" class="form-control rounded-3" placeholder="Secondary Phone" />
+                        <span asp-validation-for="Phone2" class="text-danger small"></span>
+                    </div>
+                </div>
+
+                <div class="mt-5 d-flex justify-content-end gap-3">
+                    <a asp-action="Index" class="btn btn-light border rounded-pill px-4">
+                        Cancel
+                    </a>
+                    <button type="submit" class="btn btn-primary rounded-pill px-4 shadow-sm">
+                        <i class="bi bi-save"></i> Save
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
